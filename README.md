@@ -1,1 +1,1 @@
-use mor vim
+use moar vim
